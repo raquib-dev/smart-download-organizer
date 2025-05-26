@@ -87,7 +87,7 @@ Creates folders based on file creation dates (YYYY-MM-DD format), perfect for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-download-organizer.git
+   git clone https://github.com/raquib-dev/smart-download-organizer.git
    cd smart-download-organizer
    ```
 
